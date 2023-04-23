@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a4b561dfbb21141ba30e53d51a4403, type: 3}
+  m_Name: BigMissile
+  m_EditorClassIdentifier: 
+  missileSpeed: 10
+  missilePrefab: {fileID: 8592168836895857625, guid: d9540e35777111b4d9a28ce73ab49963,
+    type: 3}
+  trailParticlesPrefab: {fileID: 1502657185470642814, guid: fcfb7c2eac011b74aae4ce4fb392d700,
+    type: 3}
+  explosionParticlesPrefab: {fileID: 8515971318735995679, guid: 35a1cadf39cd72646b224df720aaa7fa,
+    type: 3}
